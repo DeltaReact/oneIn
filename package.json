@@ -1,7 +1,7 @@
 {
   "name": "oneIn",
   "description": "A more useful doOrDont: oneIn.two()",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "James Garner <j@jada.io>",
   "repository": {
     "type": "git",

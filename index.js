@@ -1,6 +1,6 @@
 "use strict";
 
-let oneIn = {
+var oneIn = {
   "two": function () {
     return (Math.random() <= (1 / 2));
   },
